@@ -166,6 +166,10 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 PRODUCT_PACKAGES += \
     OplusDoze
 
+# Dolby
+PRODUCT_PACKAGES += \
+    OplusDolby
+
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm@1.3.vendor \
