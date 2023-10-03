@@ -5,6 +5,7 @@
 #
 
 BUILD_BROKEN_DUP_RULES := true
+BUILD_BROKEN_INCORRECT_PARTITION_IMAGES := true
 
 COMMON_PATH := device/oneplus/sm8350-common
 
